@@ -1,0 +1,21 @@
+html,body{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.bg-dark{
+    background-color: #264653 !important;
+}
+.grayscale {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+  }
+  .client{
+      color: rgb(231 111 81);
+
+      }
+.fa-star.filled{
+    color: #EB8223 ;
+}        
+.fa-star.empty{
+    color: #9B9692 ;
+}        
